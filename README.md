@@ -1,6 +1,6 @@
-# high-school-web
+# High School Web
 
-## Project setup
+## UI for high school portal
 ```
 npm install
 ```
